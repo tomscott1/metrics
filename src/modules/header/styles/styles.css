@@ -1,0 +1,38 @@
+/* ----- miain ------ */
+
+.header {
+  height: 60px;
+  background-color: #446CB3;
+  line-height: 60px;
+  text-align: center;
+}
+
+
+
+/* ----- fonts ----- */
+
+.title-logo-font {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: #FFF;
+  padding: 1px 10px;
+  font-weight: 400;
+  font-size: 200%;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+/* ----- Icons ----- */
+
+.icon-big {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 350%;
+  display: block;
+  color: #FFF;
+  margin-bottom: 10px;
+}
